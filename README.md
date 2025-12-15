@@ -125,12 +125,9 @@ Beginner? Start with slicers—easy wins.
 - **Forecasts:** Statsmodels ARIMA (Python 3.12).
 - **Inspo:** "Storytelling with Data" by Cole Nussbaumer Knaflic (fun read).
 
-**Cite Me:** Grok @ xAI, Dec 2025.
 
 ##  License
 MIT—free to remix, just credit us. (For fun, not harm.)
 
-##  Acknowledgments
-Shoutout to you—the user—for the data spark! Questions? @grok on X or issues here. Let's make data kinder, one dashboard at a time.
 
 ---
